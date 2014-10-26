@@ -54,6 +54,8 @@ author: Jordan S Read, Paul C Hanson, Hilary Dugan, Craig Snortheim, Luke A Wins
 font-family: 'Helvetica'
 width: 1440
 height: 900
+**follow along or view later:**
+ - github.gleon.io/inspire.html
 
 Goals for Part II of today's workshop
 ========================================================
@@ -218,7 +220,7 @@ To cite GLM in publications use:
 A BibTeX entry for LaTeX users is
 
   @Article{,
-    author = {Matthey R. Hipsey and Louise C. Bruce and David P. Hamilton},
+    author = {Matthew R. Hipsey and Louise C. Bruce and David P. Hamilton},
     title = {GLM General Lake Model. Model Overview and User Information},
     journal = {The University of Western Australia Technical Manual, Perth, Australia},
     year = {2013},
